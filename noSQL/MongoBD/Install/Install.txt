@@ -1,0 +1,10 @@
+
+Run service as a local or domain user
+
+    Service Name  : MongoDB
+    Data Directory: C:\Program Files\MongoDB\Server\5.0\data\
+    Log Directory : C:\Program Files\MongoDB\Server\5.0\log\
+
+Tengo que crear a mano un path que se llame C:\data\db
+    cmd --> mkdir \data\db
+
