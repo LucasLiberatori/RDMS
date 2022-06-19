@@ -1,0 +1,1 @@
+"Racing Club" | out-file ".\MyPsProcess.txt"

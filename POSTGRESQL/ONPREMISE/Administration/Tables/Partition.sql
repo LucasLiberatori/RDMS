@@ -6,7 +6,7 @@ https://postgrespro.com/docs/postgrespro/11/ddl-partitioning
 
 
 
--- 1. How to check if table is partition or to find existing partitions – there is a new column “relispartition” in pg_class table:
+-- 1. How to check if table is partition or to find existing partitions ï¿½ there is a new column ï¿½relispartitionï¿½ in pg_class table:
 select * from pg_class where relispartition is true
 
 /********************************************************************************************

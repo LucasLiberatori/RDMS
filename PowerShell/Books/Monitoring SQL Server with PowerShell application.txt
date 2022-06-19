@@ -1,0 +1,106 @@
+
+Monitoring SQL Server with PowerShell 
+(Alejandro Cobar)
+
+Step 1
+	Title : Monitoring SQL Server with PowerShell Core Object Setup
+	URL   : https://www.mssqltips.com/sqlservertip/6354/monitoring-sql-server-with-powershell-core-object-setup/
+	Script: 6354_scripts
+	Status: Installed
+	
+Step 2
+	Title : Monitoring SQL Server with PowerShell Instance Data Collection
+	URL   : https://www.mssqltips.com/sqlservertip/6468/monitoring-sql-server-with-powershell-instance-data-collection/
+	Script: 6468_scripts-v2a
+
+	
+Step 3
+	Title : SQL Server Agent Job Monitoring with PowerShell
+	URL   : https://www.mssqltips.com/sqlservertip/6469/sql-server-agent-job-monitoring-with-powershell/
+	Script: 6469_scripts
+
+Step 4
+	Title : SQL Server Backup Monitoring with PowerShell
+	URL   : https://www.mssqltips.com/sqlservertip/6470/sql-server-backup-monitoring-with-powershell/
+	Script: 6470_scripts
+
+Step 5
+	Title : SQL Server Agent Job Monitoring for Last Execution with PowerShell
+	URL   : https://www.mssqltips.com/sqlservertip/6495/sql-server-agent-job-monitoring-for-last-execution-with-powershell/
+	Script: 6495_scripts
+
+Step 6
+	Title : SQL Server Database and Database File Monitoring with PowerShell
+	URL   : https://www.mssqltips.com/sqlservertip/6513/sql-server-database-and-database-file-monitoring-with-powershell/
+	Script: 6513_scripts
+	
+Step 7
+	Title : How to Check SysAdmin Role in SQL Server with PowerShell
+	URL   : https://www.mssqltips.com/sqlservertip/6534/how-to-check-sysadmin-role-in-sql-server-with-powershell/
+	Script: 6534_scripts
+
+Step 8
+	Title : Monitor all Indexes in SQL Server with PowerShell
+	URL   : https://www.mssqltips.com/sqlservertip/6541/monitor-all-indexes-in-sql-server-with-powershell/
+	Script: 6541_scripts-v2
+
+Step 9
+	Title : SQL Server Wait Stats Monitoring with PowerShell
+	URL   : https://www.mssqltips.com/sqlservertip/6542/sql-server-wait-stats-monitoring-with-powershell/
+	Script: 6542_scripts
+	
+Step 10
+	Title : SQL Server High CPU Query Use Monitoring with PowerShell
+	URL   : https://www.mssqltips.com/sqlservertip/6558/sql-server-high-cpu-query-use-monitoring-with-powershell/
+	Script: 6558_scripts
+
+Step 11
+	Title : Monitoring SQL Server Buffer Pool Usage by Database with PowerShell
+	URL   : https://www.mssqltips.com/sqlservertip/6576/sql-server-monitoring-buffer-pool/
+	Script: 6576_scripts
+
+Step 12
+	Title : Monitoring SQL Server logins and server roles with PowerShell for Database Security
+	URL   : https://www.mssqltips.com/sqlservertip/6584/sql-server-database-security-monitoring-with-powershell/
+	Script: 6584_scripts
+	
+Step 13
+	Title : How To Check Disk Space in SQL Server
+	URL   : https://www.mssqltips.com/sqlservertip/6731/how-to-check-disk-space-in-sql-server/
+	Script: 6731_scripts
+	Nota  : Este no esta mostrando nada!!!!. Error
+	
+Step 14
+	Title : Monitor SQL Server Table Size with PowerShell
+	URL   : https://www.mssqltips.com/sqlservertip/6675/monitor-sql-server-table-size-with-powershell/
+	Script: 6675_scripts
+
+Step 15
+	Title : sp_whoisactive SQL Server Monitoring
+	URL   : https://www.mssqltips.com/sqlservertip/6645/sp_whoisactive-sql-server-monitoring/
+	Script: 6645_Code y who_is_active_v11_32
+
+Step 16
+	Title : SQL Server Configuration Settings Query
+	URL   : https://www.mssqltips.com/sqlservertip/6090/sql-server-configuration-settings-query/
+	Script: T-SQL Script to Return SQL Server Configuration Information.sql
+	Este punto no esta en un PS. Tampoco es la mejor query que vi o que tengo
+	Implementar algo mejor pero implementar!!!
+	
+Step 17
+	Title : How to Check Monthly Growth of Database in SQL Server
+	URL   : https://www.mssqltips.com/sqlservertip/6158/how-to-check-monthly-growth-of-database-in-sql-server/
+	Script: Tiene script adentro!
+	Esta bueno pero se podria mejorar. Igual que el punto anterior.
+	Implementar algo mejor pero implementar!!!
+
+
+
+
+
+
+
+
+
+
+

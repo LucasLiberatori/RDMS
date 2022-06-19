@@ -1,0 +1,18 @@
+
+################################
+Data Types
+################################
+Data Type	    Description
+[Array] 	    Array
+[Bool]	        Value is TRUE or FALSE
+[DateTime]	    Date and time
+[Guid]	        Globally unique 32-byte identifier
+[HashTable]	    Collection of key-value pairs
+[Int32], [Int]	32-bit integers
+[PsObject]	    PowerShell object
+[Regex]	        Regular expression
+[ScriptBlock]	PowerShell script block
+[Float]	        Floating point number
+[String]	    String
+[Switch]	    PowerShell switch parameter
+[XmlDocument]	XML document
