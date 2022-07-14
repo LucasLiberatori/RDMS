@@ -1,6 +1,8 @@
 
 ###########################################################################################################
 # Use of variables
+# Ref
+https://www.mssqltips.com/sqlservertip/7153/powershell-variable-examples-data-types-scope-name-assignment/
 ###########################################################################################################
 
 # Specify the data type within brackets syntax

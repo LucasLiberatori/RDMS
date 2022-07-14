@@ -1,0 +1,6 @@
+
+# To install SqlServer module
+# Ref
+https://www.powershellgallery.com/packages/Sqlserver/21.1.18256
+
+Install-Module -Name SqlServer -RequiredVersion 21.1.18256
